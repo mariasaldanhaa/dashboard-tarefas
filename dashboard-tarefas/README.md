@@ -1,4 +1,4 @@
 ### Dashboard de Gestão de Atividades
 
 Alunos: Maria Eduarda Saldanha Alves e Gabriel Lucas Silva Rosa
-Local: http://localhost:5173/
+Link do repositório: https://github.com/mariasaldanhaa/dashboard-tarefas.git
